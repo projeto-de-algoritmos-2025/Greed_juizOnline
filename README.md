@@ -31,6 +31,12 @@ Tabela com os links para as devidas questões.
 | [Beecrowd 2730 - Six Flags](https://judge.beecrowd.com/pt/problems/view/2730)           | médio (4)       | Knapsack (Programação Dinâmica) | [six_flags.py](Greed/beecrowd-six_flags/six_flags.py)                           | [six.flags.md](Greed/beecrowd-six_flags/six.flags.md)                             |
 | [Beecrowd 2345 - Gergovia Wine Trading](https://judge.beecrowd.com/pt/problems/view/1106) | Média (5)         | Greedy (Ambicioso)            | [georgia.py](Greed/beecrowd-2345-gergovia/gergovia.py)                         | [gergovia.md](Greed/beecrowd-2345-gergovia/georgia.md)                         |
 
+## Vídeo da apresentação
+
+https://youtu.be/7tLNo8_n-zk
+
+
+
 ## Instalação
 
 **Linguagem:** Python 3.10+
