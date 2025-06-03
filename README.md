@@ -33,7 +33,8 @@ Tabela com os links para as devidas questões.
 
 ## Vídeo da apresentação
 
-https://youtu.be/7tLNo8_n-zk
+[![Explicação no YouTube](https://img.youtube.com/vi/7tLNo8_n-zk/0.jpg)](https://youtu.be/7tLNo8_n-zk)
+
 
 
 
