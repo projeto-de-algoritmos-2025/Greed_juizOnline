@@ -20,12 +20,17 @@ Este repositório foi criado para a apresentação dos trabalhos da disciplina P
 
 Tabela com os links para as devidas questões.
 
-| Problema                                                                                 | Dificuldade | Método        | Solução Código                                                                  | Solução comentada                                                               |
-| ---------------------------------------------------------------------------------------- | ----------- | ------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Beecrowd 1054 - Sapo Dinâmico](https://judge.beecrowd.com/pt/problems/view/1123)       | Dificil (7)   | Breakpoints   |  [sapo_dinamico.py](Greed\beecrowd-1054-sapo_dinamico\1054_sapo_dinamico.py)                                                                               | [sapo_dinamico.md](Greed\beecrowd-1054-sapo_dinamico\sapo_dinamico.md)                                                                                |
-| [Beecrowd 1966 - Volta para casa](https://judge.beecrowd.com/pt/problems/view/1806)           | Extra Dificil (9) | Knapsack      |   [volta_para_casa.py](Greed\beecrowd-1966-volta-para-casa\1966_volta_para_casa.py)                                                                              | [volta_para_casa.md](Greed\beecrowd-1966-volta-para-casa\volta_para_casa.md)
-| [Beecrowd 1539 - Empresa de telefonia](https://judge.beecrowd.com/pt/problems/view/1539) | Difícil (6) | Dijkstra      | [telecom_company.py](grafos-2/beecrowd-1539-telecom_company/telecom_company.py) | [telecom_company.md](grafos-2/beecrowd-1539-telecom_company/telecom_company.md) |
-| [Beecrowd 1152 - Estradas escuras](https://judge.beecrowd.com/en/problems/view/1152)     | Médio (5)   | Kruskal (MST) | [dark_roads.py](grafos-2/beecrowd-1152-dark_roads/dark_roads.py)                | [dark_roads.md](grafos-2/beecrowd-1152-dark_roads/dark_roads.md)                |
+## Problemas Resolvidos
+
+Tabela com os links para as devidas questões.
+
+| Problema                                                                                 | Dificuldade       | Método                          | Solução Código                                                                                  | Solução comentada                                                                                   |
+|------------------------------------------------------------------------------------------|-------------------|----------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [Beecrowd 1054 - Sapo Dinâmico](https://judge.beecrowd.com/pt/problems/view/1123)        | Difícil (7)       | Breakpoints                     | [sapo_dinamico.py](Greed/beecrowd-1054-sapo_dinamico/1054_sapo_dinamico.py)                    | [sapo_dinamico.md](Greed/beecrowd-1054-sapo_dinamico/sapo_dinamico.md)                             |
+| [Beecrowd 1966 - Volta para casa](https://judge.beecrowd.com/pt/problems/view/1806)      | Extra Difícil (9) | Knapsack                        | [volta_para_casa.py](Greed/beecrowd-1966-volta-para-casa/1966_volta_para_casa.py)              | [volta_para_casa.md](Greed/beecrowd-1966-volta-para-casa/volta_para_casa.md)                       |
+| [Beecrowd 2730 - Siege of Leningrad](https://judge.beecrowd.com/pt/problems/view/2730)   | Difícil (6)       | Knapsack (Programação Dinâmica) | [siege_leningrad.py](Greed/beecrowd-2730-siege_of_leningrad/siege_leningrad.py)                | [siege_leningrad.md](Greed/beecrowd-2730-siege_of_leningrad/siege_leningrad.md)                   |
+| [Beecrowd 2630 - Six Flags](https://judge.beecrowd.com/pt/problems/view/2630)            | Médio (5)         | Interval Scheduling (ambicioso)     | [six_flags.py](Greed/beecrowd-2630-six_flags/six_flags.py)                                     | [six_flags.md](Greed/beecrowd-2630-six_flags/six_flags.md)                                         |
+
 
 ## Instalação
 
