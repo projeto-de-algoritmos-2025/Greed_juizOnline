@@ -28,15 +28,19 @@ Tabela com os links para as devidas questões.
 |------------------------------------------------------------------------------------------|-------------------|-------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | [Beecrowd 1054 - Sapo Dinâmico](https://judge.beecrowd.com/pt/problems/view/1123)        | Difícil (7)       | Breakpoints                   | [sapo_dinamico.py](Greed/beecrowd-1054-sapo_dinamico/1054_sapo_dinamico.py)                      | [sapo_dinamico.md](Greed/beecrowd-1054-sapo_dinamico/sapo_dinamico.md)                             |
 | [Beecrowd 1966 - Volta para casa](https://judge.beecrowd.com/pt/problems/view/1806)      | Difícil (9)       | Knapsack                      | [volta_para_casa.py](Greed/beecrowd-1966-volta-para-casa/1966_volta_para_casa.py)                | [volta_para_casa.md](Greed/beecrowd-1966-volta-para-casa/volta_para_casa.md)                       |
-| [Beecrowd 2730 - Six Flags](https://judge.beecrowd.com/pt/problems/view/2730)            | Média (4)         | Greedy (Interval Scheduling)  | [six_flags.py](Greed/beecrowd-1487-six-flags/six_flags.py)                                       | [six.flags.md](Greed/beecrowd-1487-six-flags/six.flags.md)                                          |
-| [Beecrowd 2345 - Gergovia Wine Trading](https://judge.beecrowd.com/pt/problems/view/1106)| Média (5)         | Greedy (Ambicioso)            | [georgia.py](Greed/beecrowd-1661-gergovia/georgia.py)                                             | [georgia.md](Greed/beecrowd-1661-gergovia/georgia.md)                                               |
+| [Beecrowd 2730 - Six Flags](https://judge.beecrowd.com/pt/problems/view/2730)            | Média (4)         | Knapsack  | [six_flags.py](Greed/beecrowd-1487-six-flags/six_flags.py)                                       | [six.flags.md](Greed/beecrowd-1487-six-flags/six.flags.md)                                          |
+| [Beecrowd 2345 - Gergovia Wine Trading](https://judge.beecrowd.com/pt/problems/view/1106)| Média (5)         | Knapsack          | [georgia.py](Greed/beecrowd-1661-gergovia/georgia.py)                                             | [georgia.md](Greed/beecrowd-1661-gergovia/georgia.md)                                               |
 
 
 ## Vídeo da apresentação
 
-[![Explicação no YouTube](https://img.youtube.com/vi/7tLNo8_n-zk/0.jpg)](https://youtu.be/7tLNo8_n-zk)
+[![Explicação no YouTube](https://img.youtube.com/vi/7tLNo8_n-zk/0.jpg)](https://youtu.be/LenWXvVhSqA)
 
+[Assista ao vídeo aqui](https://youtu.be/LenWXvVhSqA)
 
+Vídeo antigo:
+
+https://youtu.be/7tLNo8_n-zk)
 
 
 ## Instalação
