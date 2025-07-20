@@ -34,7 +34,9 @@ Tabela com os links para as devidas questões.
 
 ## Vídeo da apresentação
 
-[![Explicação no YouTube](https://youtu.be/LenWXvVhSqA)
+<a href="https://youtu.be/F0VeCXFJAQA" target="_blank">
+  <img src="https://img.youtube.com/vi/F0VeCXFJAQA/maxresdefault.jpg" alt="Vídeo Explicativo" style="width:100%; max-width:600px;">
+</a>
 
 [Assista ao vídeo aqui](https://youtu.be/LenWXvVhSqA)
 
